@@ -1,0 +1,21 @@
+.cell {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    border: 1px solid;
+    display: inline-block;
+}
+
+.cell .players {
+    position: absolute;
+}
+
+.cellIndex {
+    position: absolute;
+    right: 0px;
+}
+
+.ladder,.snake {
+    position: absolute;
+    bottom: 0px;
+}

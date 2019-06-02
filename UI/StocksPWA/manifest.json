@@ -1,0 +1,21 @@
+{
+    "name": "Stocks Info",
+    "short_name": "Stocks",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "Displays current prices of the stocks",
+    "theme_color": "#536878",
+    "icons": [
+        {
+            "src": "/images/192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/StockIcon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
